@@ -1,4 +1,4 @@
-# MarkdownChallenge
+## MarkdownChallenge
 For this project, I will dedicate this markdown to my **favorite athlete**...
 ***
 #### James Harden
@@ -8,9 +8,12 @@ For this project, I will dedicate this markdown to my **favorite athlete**...
 
 [MVP Highlight MIX](https://www.youtube.com/watch?v=1RwQfrPzBQ4)
 
+***
+
 ![James Harden](https://s.yimg.com/ny/api/res/1.2/i3_Lq7lttss_IJBm3q.vvg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/feef3e00844e07273b5bbaf714c070a7)
 
 [Second Page](Page2.md)
+
 
 
 **Block Quote:**
